@@ -85,3 +85,17 @@ var arr = [
 ];
 console.log(arrToObj(arr));
 
+function test(x) {
+    if (typeof x === 'number') {
+        return x * 10;
+    } else if (typeof x == 'string') {
+        return 'Cộng chuỗi: ' + x;
+    } else if (typeof x === 'boolean') {
+        return !x;
+    }
+}
+
+console.log(test(false))
+console.log(test(20))
+console.log(test(3.5))
+console.log(test('abc'))
