@@ -1,0 +1,6 @@
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua các tệp package-lock.json hoặc yarn.lock (tùy thuộc vào bạn sử dụng npm hoặc yarn)
+package-lock.json
+yarn.lock
