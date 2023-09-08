@@ -49,3 +49,5 @@ const numbers = [1, 2, 3, 4, 50];
 numbers.forEach(function (number) {
     console.log(number);
 })
+
+$('.cadre-info').each()

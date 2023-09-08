@@ -11,3 +11,5 @@ console.log(array.slice(-3))
 // Lấy các phần tử từ phần tử thứ 3 (đếm từ phải sang) đến phần tử thứ 2 (đếm từ phải sang)
 // Kq: [7, 8]
 console.log(array.slice(-3, -1))
+
+console.log({ array });
