@@ -1,28 +1,25 @@
 {
-    "courses": [
-        {
-            "id": 1,
-            "name": "Kiến thức cơ bản, tổng quan cho người mới bắt đầu",
-            "description": "Nội dung của khoá học 01",
-            "url": "https://files.fullstack.edu.vn/f8-prod/courses/1.png"
-        },
-        {
-            "id": 2,
-            "name": "Lập Trình JavaScript Nâng Cao",
-            "description": "Lập Trình JavaScript Nâng Cao",
-            "url": "https://files.fullstack.edu.vn/f8-prod/courses/12.png"
-        },
-        {
-            "id": 3,
-            "name": "Làm việc với Terminal & Ubuntu",
-            "description": "Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu là một bước quan trọng trên con đường trở thành một Web Developer.",
-            "url": "https://files.fullstack.edu.vn/f8-prod/courses/14/624faac11d109.png"
-        },
-        {
-            "id": 4,
-            "name": "Xây Dựng Website với ReactJS",
-            "description": "Khóa học ReactJS từ cơ bản tới nâng cao, kết quả của khóa học này là bạn có thể làm hầu hết các dự án thường gặp với ReactJS. Cuối khóa học này bạn sẽ sở hữu một dự án giống TikTok.com, bạn có thể tự tin đi xin việc khi nắm chắc các kiến thức được chia sẻ trong khóa học này.",
-            "url": "https://files.fullstack.edu.vn/f8-prod/courses/13/13.png"
-        }
-    ]
+  "courses": [
+    {
+      "description": "Nội dung mô tả của khoá học 01",
+      "title": "Kiến thức nhập môn IT",
+      "id": 1
+    },
+    {
+      "title": "Lập Trình JavaScript Nâng Cao",
+      "description": "Đây là mô tả của khoá học lập trình JS nâng cao v2",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Làm việc với Terminal & Ubuntu",
+      "description": "Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu là một bước quan trọng trên con đường trở thành một Web Developer.",
+      "url": "https://files.fullstack.edu.vn/f8-prod/courses/14/624faac11d109.png"
+    },
+    {
+      "title": "Lập trình HTML CSS Pro",
+      "description": "Đây là khoá học tính phí được biên soạn bài bản, phù hợp cho người mới\nbắt đầu",
+      "id": 4
+    }
+  ]
 }

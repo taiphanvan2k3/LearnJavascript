@@ -1,0 +1,54 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.form-input .form-group {
+    margin-top: 15px;
+}
+
+.form-group {
+    display: flex;
+    align-items: flex-start;
+}
+
+.form-group label {
+    width: 100px;
+}
+
+.form-group textarea {
+    min-width: 50%;
+}
+
+.div-title {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.div-title h2 {
+    margin: 10px 0;
+}
+
+.div-title button {
+    padding: 4px 8px;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.div-title .btn-delete {
+    background: red;
+}
+
+.div-title .btn-update {
+    background: orange;
+}
+
+.div-title button:active {
+    opacity: 0.5;
+}
+
+.item-error {
+    border: 1px solid red;
+}

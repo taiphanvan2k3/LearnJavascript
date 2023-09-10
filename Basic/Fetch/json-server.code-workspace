@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "json-server"
+		},
+		{
+			"path": "web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
